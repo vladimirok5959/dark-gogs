@@ -4,15 +4,7 @@ Dark theme for Gogs, based on GitHub color scheme
 
 ## Screenshots
 
-![001](screenshots/001.png)
-
----
-
-![002](screenshots/002.png)
-
----
-
-![003](screenshots/003.png)
+![001](screenshots/20221106174837.png)
 
 ## Installation
 
