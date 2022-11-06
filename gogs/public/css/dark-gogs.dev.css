@@ -1134,3 +1134,7 @@ label[for=org_name] {
 .repository .diff-file-box .code-diff tbody tr.add-code td {
 	border-color: #4f6d30 !important;
 }
+
+#file-content {
+	padding: 0 1px;
+}
