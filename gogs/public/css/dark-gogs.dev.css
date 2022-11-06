@@ -1088,3 +1088,7 @@ label[for=org_name] {
 .ui.menu .item.disabled:hover {
 	color: #4a4f55 !important;
 }
+
+.ui.table tr td {
+	border-top: 1px solid rgb(50, 56, 62);
+}
