@@ -866,6 +866,10 @@ span.ui.basic.yellow.label {
 	padding: 25px;
 }
 
+.repository.wiki.view .ui.grid .ui.six {
+	text-align: right;
+}
+
 /* Profile drop down */
 .ui.menu .dropdown.item .menu {
 	background: #c9d1d9;
