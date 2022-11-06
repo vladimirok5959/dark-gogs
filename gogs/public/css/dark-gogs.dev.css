@@ -555,6 +555,21 @@ span.ui.basic.yellow.label {
 	padding-bottom: 0;
 }
 
+.markdown:not(code) h1 code:before,
+.markdown:not(code) h2 code:before,
+.markdown:not(code) h3 code:before,
+.markdown:not(code) h4 code:before,
+.markdown:not(code) h5 code:before,
+.markdown:not(code) h6 code:before,
+.markdown:not(code) h1 code:after,
+.markdown:not(code) h2 code:after,
+.markdown:not(code) h3 code:after,
+.markdown:not(code) h4 code:after,
+.markdown:not(code) h5 code:after,
+.markdown:not(code) h6 code:after {
+	display: none;
+}
+
 .ui.basic.small.button {
 	background: #161b22 !important;
 }
