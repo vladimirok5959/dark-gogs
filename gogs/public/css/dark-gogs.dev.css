@@ -1187,3 +1187,17 @@ label[for=org_name] {
 	background-color: #454a57;
 	color: #d7d7d7;
 }
+
+.repository.file.editor .commit-form-wrapper .commit-form {
+	border: 1px solid #28313d;
+}
+
+.repository.file.editor .commit-form-wrapper .commit-form:before,
+.repository.file.editor .commit-form-wrapper .commit-form:after {
+	border-right-color: #161b22;
+}
+
+.repository.file.editor .commit-form-wrapper .commit-form .quick-pull-choice .branch-name {
+	background-color: #454a57;
+	color: #d7d7d7;
+}
