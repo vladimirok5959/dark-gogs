@@ -141,6 +141,10 @@ h2 a.anchor .octicon.octicon-link {
 	color: #fff !important;
 }
 
+.ui.dropdown .menu>.item:hover {
+	background: rgb(79 91 119 / 10%);
+}
+
 .repository .filter.dropdown .menu {
 	background-color: #161b22 !important;
 	color: lightgrey !important;
