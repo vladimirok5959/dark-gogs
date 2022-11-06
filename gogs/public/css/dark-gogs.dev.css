@@ -1003,8 +1003,8 @@ label[for=org_name] {
 
 .ui.blue.label,
 .ui.blue.labels .label {
-	background-color: #58a6ff !important;
-	color: #c9d1d9 !important;
+	background-color: #1f6feb !important;
+	color: #fff !important;
 }
 
 .repository .diff-file-box .file-body.file-code .lines-num {
