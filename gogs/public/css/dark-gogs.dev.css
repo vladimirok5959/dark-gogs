@@ -597,12 +597,12 @@ span.ui.basic.yellow.label {
 }
 
 .tag-code.nl-0.ol-0>.lines-code>pre>code {
-	color: #0d1117 !important;
+	color: #fff !important;
 }
 
 .repository .diff-file-box .code-diff tbody tr.tag-code td,
 .tag-code {
-	background-color: #454545 !important;
+	background-color: #31363b !important;
 }
 
 .repository .diff-file-box .code-diff tbody tr .removed-code {
@@ -1115,4 +1115,21 @@ label[for=org_name] {
 
 .ui.table tr td {
 	border-top: 1px solid rgb(50, 56, 62);
+}
+
+.repository .diff-file-box .file-body.file-code .lines-num-old,
+.repository .diff-file-box .code-diff .lines-num {
+	border-right: 1px solid #4b4b4b;
+}
+
+.repository .diff-file-box .code-diff tbody tr.tag-code td {
+	border-color: #4b4b4b !important;
+}
+
+.repository .diff-file-box .code-diff tbody tr.del-code td {
+	border-color: #6d3030 !important;
+}
+
+.repository .diff-file-box .code-diff tbody tr.add-code td {
+	border-color: #4f6d30 !important;
 }
