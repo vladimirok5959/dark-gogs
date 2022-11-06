@@ -1152,3 +1152,8 @@ label[for=org_name] {
 #file-content {
 	padding: 0 1px;
 }
+
+.ui.label {
+	background-color: #454a57;
+	color: #d7d7d7;
+}
