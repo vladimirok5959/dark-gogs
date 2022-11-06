@@ -1083,3 +1083,8 @@ label[for=org_name] {
 .repository.release #release-list {
 	border-top: 1px solid #21262d;
 }
+
+.ui.menu .item.disabled,
+.ui.menu .item.disabled:hover {
+	color: #4a4f55 !important;
+}
