@@ -1059,6 +1059,18 @@ label[for=org_name] {
 }
 
 /* Else */
+.ui.danger .item h5 {
+	margin-bottom: 0;
+}
+
+.ui.danger .item p {
+	font-size: 0.8em;
+}
+
+.ui.danger .item .ui.right {
+	margin-left: 15px;
+}
+
 .ui.basic.button:active,
 .ui.basic.buttons .button:active,
 .ui.basic.button:focus,
