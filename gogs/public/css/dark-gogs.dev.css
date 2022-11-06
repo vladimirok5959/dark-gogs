@@ -1210,3 +1210,7 @@ label[for=org_name] {
 	background-color: #454a57;
 	color: #d7d7d7;
 }
+
+.ui.dropdown .menu>.divider {
+	border-top: 1px solid #28303c;
+}
