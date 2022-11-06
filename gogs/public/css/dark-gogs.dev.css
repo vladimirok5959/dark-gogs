@@ -893,11 +893,11 @@ span.ui.basic.yellow.label {
 
 .ui.card>.extra,
 .ui.cards>.card>.extra {
-	border-top: 1px solid #161b22 !important;
+	border-top: 1px solid #28303c !important;
 }
 
 .user.profile .ui.card .extra.content ul li:not(:last-child) {
-	border-bottom: 1px solid #161b22 !important;
+	border-bottom: 1px solid #28303c !important;
 }
 
 .ui.secondary.pointing.menu .active.item {
