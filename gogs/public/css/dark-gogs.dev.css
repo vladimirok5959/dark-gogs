@@ -248,7 +248,9 @@ h2 a.anchor .octicon.octicon-link {
 }
 
 .ui.form input:not([type]),
-.ui.form input:not([type]):focus {
+.ui.form input:not([type]):focus,
+.repository.new.migrate #auth_password,
+.repository.new.migrate #auth_password:focus {
 	background-color: #010409 !important;
 	color: #b4b7b4;
 }
