@@ -51,7 +51,7 @@ hr {
 
 .ui.top.attached.header {
 	background: #21262d !important;
-	border-color: #21262d !important;
+	border-color: #30363d !important;
 	color: #e7e7e7 !important;
 }
 
@@ -393,6 +393,7 @@ span.ui.basic.yellow.label {
 
 .ui.table {
 	background: #161b22;
+	border: 1px solid #30363d;
 	color: #c9d1d9;
 }
 
@@ -748,7 +749,7 @@ span.ui.basic.yellow.label {
 }
 
 .ui.attached.segment {
-	border: transparent;
+	border: 1px solid #30363d;
 }
 
 .ui.warning.message {
