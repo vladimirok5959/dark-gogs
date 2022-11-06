@@ -448,6 +448,10 @@ span.ui.basic.yellow.label {
 	color: #999;
 }
 
+.ui.button:hover {
+	background-color: #0000004a;
+}
+
 .ui.top.attached .ui.button {
 	margin-right: 0;
 }
