@@ -446,6 +446,10 @@ span.ui.basic.yellow.label {
 	color: #999;
 }
 
+.ui.top.attached .ui.button {
+	margin-right: 0;
+}
+
 .CodeMirror {
 	background: #0d1117;
 	border: 1px solid #30363d;
@@ -1133,6 +1137,14 @@ label[for=org_name] {
 
 .repository .diff-file-box .code-diff tbody tr.add-code td {
 	border-color: #4f6d30 !important;
+}
+
+.ui.button:last-child {
+	margin-right: 0;
+}
+
+.item:last-child .ui.label {
+	margin-right: 0 !important;
 }
 
 #file-content {
