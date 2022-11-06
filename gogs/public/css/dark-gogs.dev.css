@@ -1063,6 +1063,15 @@ label[for=org_name] {
 }
 
 /* Else */
+.repository.file.list #file-content .code-view .lines-code .hljs,
+.repository.file.list #file-content .code-view .lines-code ol,
+.repository.file.list #file-content .code-view .lines-code pre,
+.repository.file.list #file-content .code-view .lines-num .hljs,
+.repository.file.list #file-content .code-view .lines-num ol,
+.repository.file.list #file-content .code-view .lines-num pre {
+	background-color: #161b22;
+}
+
 .ui.danger .item h5 {
 	margin-bottom: 0;
 }
