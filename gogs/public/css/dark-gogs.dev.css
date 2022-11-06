@@ -171,6 +171,11 @@ h2 a.anchor .octicon.octicon-link {
 	color: #fff !important;
 }
 
+#logout-form .submit-button {
+	margin: -11px -16px;
+	padding: 11px 16px;
+}
+
 .filter.icon {
 	color: #fff;
 }
