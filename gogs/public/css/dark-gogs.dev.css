@@ -849,6 +849,15 @@ span.ui.basic.yellow.label {
 	opacity: 0.6;
 }
 
+.repository.view.issue .comment-list .comment .content>.bottom.segment {
+	background: #21262d !important;
+}
+
+.repository.view.issue .comment-list .comment .content>.bottom.segment a {
+	background-color: #161b22 !important;
+	border: solid 1px #28313d;
+}
+
 /* Pull requests */
 .ui.header .sub.header {
 	color: #c9d1d9 !important;
